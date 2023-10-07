@@ -40,6 +40,7 @@
 ## Tech Stack 👨‍💻
 
 [Arbitrum SDK](https://docs.arbitrum.io/sdk) <br>
+[Any Trust](https://medium.com/offchainlabs/introducing-anytrust-chains-cheaper-faster-l2-chains-with-minimal-trust-assumptions-31def59eb8d7)<br>
 [Intro to Arbitrum Orbit](https://docs.arbitrum.io/launch-orbit-chain/orbit-gentle-introduction)<br>
 [Arbitrum Orbit  : Get in Touch](https://docs.google.com/forms/d/e/1FAIpQLSe5YWxFbJ8DgWcDNbIW2YYuTRmegtx2FHObym00_sOt0kq4wA/viewform)<br>
 [Stylus Rust SDK](https://docs.arbitrum.io/stylus/reference/stylus-sdk)<br>
