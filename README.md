@@ -1,7 +1,7 @@
 # Awesome-Arbitrum
 ## Everything you need to know about Arbitrum
-![image](https://github.com/Bobdbldr/Awesome-Arbitrum/assets/105809749/d763f0a0-b442-4f63-a828-e2e1959c0bd0)
 
+![image](https://github.com/Bobdbldr/Awesome-Arbitrum/assets/105809749/a3e8a26d-0ceb-4b7d-b12a-18b335f3af91)
 
 ## Socials 👥
 
