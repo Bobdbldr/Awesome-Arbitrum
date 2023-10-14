@@ -15,8 +15,7 @@
 [Governance Forum](https://forum.arbitrum.foundation/)<br>
 [Research Forum](https://research.arbitrum.io/)<br>
 [Youtube (Off Chain labs)](https://www.youtube.com/@OffchainLabs)<br>
-[Youtube (Arbitrum)]([https://www.youtube.com/@OffchainLabs](https://www.youtube.com/@Arbitrum
-))<br>
+[Youtube (Arbitrum)](https://www.youtube.com/@Arbitrum)<br>
 [Discord](https://discord.com/invite/arbitrum)<br>
 [Blog](https://arbitrumfoundation.medium.com/)<br>
 [E-Mail](info@arbitrum.foundation)<br>
