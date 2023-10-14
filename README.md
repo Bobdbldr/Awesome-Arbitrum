@@ -6,8 +6,7 @@
 ## Socials 👥
 
 [Website (Arbitrum - Foundation)](https://arbitrum.foundation/) <br>
-[Website (Arbitrum - ecosystem)]( https://arbitrum.io/) <br>
-
+[Website (Arbitrum - ecosystem)](https://arbitrum.io/) <br>
 [Twitter](https://twitter.com/arbitrum) <br>
 [Telegram](https://t.me/arbitrum)<br>
 [Github](https://github.com/OffchainLabs/arbitrum-docs)<br>
@@ -47,8 +46,8 @@
 [Any Trust](https://medium.com/offchainlabs/introducing-anytrust-chains-cheaper-faster-l2-chains-with-minimal-trust-assumptions-31def59eb8d7)<br>
 [Intro to Arbitrum Orbit](https://docs.arbitrum.io/launch-orbit-chain/orbit-gentle-introduction)<br>
 [Arbitrum Orbit  : Get in Touch](https://docs.google.com/forms/d/e/1FAIpQLSe5YWxFbJ8DgWcDNbIW2YYuTRmegtx2FHObym00_sOt0kq4wA/viewform)<br>
-[Arbitrum Nitro]([https://docs.arbitrum.io/stylus/reference/stylus-sdk](https://medium.com/offchainlabs/arbitrum-nitro-one-small-step-for-l2-one-giant-leap-for-ethereum-bc9108047450))<br>
-[Arbitrum Bold]([[https://docs.arbitrum.io/stylus/reference/stylus-sdk](https://medium.com/offchainlabs/arbitrum-nitro-one-small-step-for-l2-one-giant-leap-for-ethereum-bc9108047450)](https://medium.com/offchainlabs/bold-permissionless-validation-for-arbitrum-chains-9934eb5328cc))<br>
+[Arbitrum Nitro](https://medium.com/offchainlabs/arbitrum-nitro-one-small-step-for-l2-one-giant-leap-for-ethereum-bc9108047450)<br>
+[Arbitrum Bold](https://medium.com/offchainlabs/bold-permissionless-validation-for-arbitrum-chains-9934eb5328cc)<br>
 
 [Stylus Rust SDK](https://docs.arbitrum.io/stylus/reference/stylus-sdk)<br>
 [Stylus Developer Tutorials](https://www.youtube.com/playlist?list=PLxKYuiL1TUuIkQmn5Mz7fVKZiM6vbwL5f)<br>
